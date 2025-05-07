@@ -1,0 +1,45 @@
+/* Mission 1 */
+
+.Mission_un {
+    text-align: center;
+}
+
+.carnivore {
+    color: red;
+}
+
+.herbivore {
+    color: green;
+}
+
+#lion {
+    text-transform: uppercase;
+}
+
+/* Mission 1 */
+
+/* Mission 2 */
+
+.carre > p {
+    color: blueviolet;
+}
+
+p:first-child {
+    font-weight: bold;
+}
+
+p:nth-of-type(2) {
+    font-style: italic;
+}
+
+/* Mission 2 */
+
+/* Mission 3 */
+
+ul > li {
+    color: lightblue;
+}
+
+
+
+/* Mission 3 */
