@@ -51,3 +51,7 @@ li[data-type="jouet"] {
 /* Mission 3 */
 
 /* Mission 4 */
+
+img:hover {
+    transform: scale(1.1); /* Équivalent à scaleX(0.7) scaleY(0.7) */
+}
