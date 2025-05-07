@@ -36,10 +36,18 @@ p:nth-of-type(2) {
 
 /* Mission 3 */
 
-ul > li {
+li[data-type="vetement"] {
     color: lightblue;
 }
 
+li[data-type="electronique"] {
+    border: 2px solid grey;
+}
 
+li[data-type="jouet"] {
+    font-weight: bolder;
+    text-decoration: underline;}
 
 /* Mission 3 */
+
+/* Mission 4 */
